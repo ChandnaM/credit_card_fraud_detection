@@ -1,6 +1,6 @@
 # credit_card_fraud_detection
 <p align="left">
-  <img src="https://github.com/SKULLDRAGON099/banner/blob/main/Logonetflix.png?raw=true" width="300px">
+  <img src="https://github.com/ChandnaM/picture/blob/main/amexlogo1.png" width="300px">
 </p>
 
 
