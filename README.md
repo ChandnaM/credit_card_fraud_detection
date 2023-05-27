@@ -1,7 +1,7 @@
 # credit_card_fraud_detection
-<p align="left">
+<!-- <p align="left">
   <img src="https://github.com/ChandnaM/picture/blob/main/amexlogo1.png" width="300px">
-</p>
+</p> -->
 
 
 
