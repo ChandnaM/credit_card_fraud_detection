@@ -12,10 +12,10 @@
 
 ### a) Comparing accuracies using different classification models.
 <p align="center">
-  <img src="https://github.com/ChandnaM/picture/blob/main/comparision.png">
+  <img src="https://github.com/ChandnaM/picture/blob/main/comparision.png" width="550px">
 </p>
 
 ### b) Random Forest Classifier has been selected for classification  
 <p align="center">
-  <img src="https://github.com/ChandnaM/picture/blob/main/random_forest.png">
+  <img src="https://github.com/ChandnaM/picture/blob/main/random_forest.png"  width="550px">
 </p>
